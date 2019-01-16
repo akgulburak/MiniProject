@@ -44,6 +44,11 @@ public class PlayerMovement : MonoBehaviour
 
         stext.text = "Score: " + score.ToString();
 
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
         if (move)
         { 
             if (Input.GetKey(KeyCode.LeftShift))

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/MSI/Documents/Rolling ball/Rolling ball.exe
+C:/Users/MSI/Documents/Rolling ball/Build/Rolling ball.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/SampleScene.unity
@@ -119,6 +119,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.givePoints
 4fe8f73b1995ac703d91c7a8c22b6180 Assembly-CSharp.dll:.CameraFollow
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MainMenuScript
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 7cf16833bddbd61aa59bc0f4e8b3a707 Assembly-CSharp.dll:.PlayerMovement
@@ -160,4 +161,3 @@ d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MainMenuScript
